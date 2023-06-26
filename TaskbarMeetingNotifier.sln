@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskbarMeetingNotifier", "TaskbarMeetingNotifier\TaskbarMeetingNotifier.csproj", "{52DE0C96-BC3C-4656-A79F-3AC4AFEB3045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "ConsoleApp1\Tests.csproj", "{E87658E0-EE4A-43C5-840C-967AC5E1687F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52DE0C96-BC3C-4656-A79F-3AC4AFEB3045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DE0C96-BC3C-4656-A79F-3AC4AFEB3045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DE0C96-BC3C-4656-A79F-3AC4AFEB3045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DE0C96-BC3C-4656-A79F-3AC4AFEB3045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87658E0-EE4A-43C5-840C-967AC5E1687F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87658E0-EE4A-43C5-840C-967AC5E1687F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87658E0-EE4A-43C5-840C-967AC5E1687F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87658E0-EE4A-43C5-840C-967AC5E1687F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FD8A75E-0189-4D7D-8587-4ADF6C0EF119}
+	EndGlobalSection
+EndGlobal

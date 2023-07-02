@@ -56,6 +56,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OutlookCliHelper.cs" />
     <Compile Include="OutlookCalendarHelper.cs" />
     <Compile Include="TaskbarMeetingNotitifer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

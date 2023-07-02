@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.33801.447
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskbarMeetingNotifier", "TaskbarMeetingNotifier\TaskbarMeetingNotifier.csproj", "{52DE0C96-BC3C-4656-A79F-3AC4AFEB3045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "ConsoleApp1\Tests.csproj", "{E87658E0-EE4A-43C5-840C-967AC5E1687F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "ConsoleApp1\Tests.csproj", "{E87658E0-EE4A-43C5-840C-967AC5E1687F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FAE70E51-F732-488C-B9A8-5604F624E262}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

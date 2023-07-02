@@ -1,5 +1,5 @@
 # TaskbarMeetingNotifier
-Windows taskbar widget which shows upcoming meetings
+Windows taskbar widget which shows the next upcoming meeting.
 
 Currently under development, already works in principle, altough recurring appointments are not shown yet.
 

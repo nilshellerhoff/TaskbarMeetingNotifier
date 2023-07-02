@@ -5,6 +5,8 @@ Currently under development, already works in principle, altough recurring appoi
 
 ![grafik](https://github.com/nilshellerhoff/TaskbarMeetingNotifier/assets/24147614/0316adaa-1f1d-4743-b46e-06fe7f10f89e)
 
+Built using [Sharpshell Deskband](https://github.com/dwmkerr/sharpshell/blob/main/docs/extensions/deskband/deskband.md)
+
 # Installing
 
 - compile the project
@@ -16,7 +18,6 @@ C:\Windows\Microsoft.NET\Framework64\<some version>\RegAsm.exe /codebase Taskbar
 - restart `explorer.exe`
 - enable `TaskBar Meeting Notifier` from the taskbar context menu
 ![grafik](https://github.com/nilshellerhoff/TaskbarMeetingNotifier/assets/24147614/d1da6073-16e4-4801-a113-f51b4e2658db)
-
 
 # TODOs / Ideas
 

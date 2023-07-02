@@ -23,4 +23,4 @@ C:\Windows\Microsoft.NET\Framework64\<some version>\RegAsm.exe /codebase Taskbar
 
 - [ ] include recurring appointments
 - [ ] make the UI nicer
-- [ ] 
+- [ ] include a join option for online meetings
